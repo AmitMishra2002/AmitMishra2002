@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ AmitMishra
-- 👀 I’m interested in Statistics
+- 👀 I’m interested in Statistics and Data Science
 - 🌱 I’m currently learning Statistics
 - 💞️ I’m looking to collaborate on Projects
 - 📫 reach me mishrajiamit2002@gmail.com
