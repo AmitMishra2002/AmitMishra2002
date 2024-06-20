@@ -1,7 +1,7 @@
 [![MasterHead](https://media.tenor.com/f0cKyHniahEAAAAd/background-khaoticfuture.gif)
 <h1 align="center">Hi 👋, I'm Amit Mishra</h1>
 <h3 align="center">Data Science and AI Enthusiast</h3>
-- 👨‍🏭 I’m currently pursuing [Msc Statistics and Data Science](https://mathematics.nmims.edu/academics/programs/msc/statistics/) From NMIMS University
+- 👨‍🏭 I’m currently pursuing [Msc Statistics and Data Science] From NMIMS University
 
 - 🔭 I’m currently working on *Portfolio Website*
 
