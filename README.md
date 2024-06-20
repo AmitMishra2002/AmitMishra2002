@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @ AmitMishra
-- 👨‍🏭 I’m currently pursuing MSc Statistics and Data Science from NMIMS University
-- 👀 I’m interested in Statistics and Data Science
-- 🌱 I’m currently learning ML and DL
-- 💞️ I’m looking to collaborate on Projects
-- 📫 reach me mishrajiamit2002@gmail.com
+👨‍🏭 I’m currently pursuing Msc Statistics and Data Science From NMIMS University
+🔭 I’m currently working on Portfolio Website
+⏳ Recently completed IBM Data Science Specialization
+🌱 I’m currently learning Power BI
+💬 Ask me about Python , SQL
+🥅 2024 Goals: Learn ML, Deep Learning, Get internship, Build projects
   
 
 <!---
